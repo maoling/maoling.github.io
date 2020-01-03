@@ -1,7 +1,7 @@
-## 我的个人博客文章仓库地址
+## This is my blog git repo
 
-###感谢[qiubaiying](https://github.com/qiubaiying)的分享.
-- 仓库地址：
+## Thanks [qiubaiying](https://github.com/qiubaiying) for sharing this blog template
+- His git repo:
 https://github.com/qiubaiying/qiubaiying.github.io
-- 安装手册：
+- Installation manual:
 https://www.jianshu.com/p/e68fba58f75c
