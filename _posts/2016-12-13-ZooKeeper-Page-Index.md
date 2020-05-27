@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      定时器 你真的会使用吗？
-subtitle:   iOS定时器详解
+title:      ZooKeeper-Page-Index
+subtitle:   ZooKeeper-Page-Index
 date:       2016-12-13
 author:     BY
 header-img: img/post-bg-ios10.jpg
 catalog: 	 true
 tags:
-    - TODO
+    - iOS
+    - 定时器
 ---
 
 
