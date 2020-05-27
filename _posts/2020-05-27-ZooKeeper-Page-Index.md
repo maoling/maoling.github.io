@@ -1,14 +1,13 @@
 ---
 layout:     post
 title:      ZooKeeper Page Index
-subtitle:   ZooKeeper Page Index
+subtitle:   
 date:       2020-05-27
 author:     Justin Ling Mao
 header-img: img/post-bg-ios10.jpg
 catalog: 	 true
 tags:
-    - iOS
-    - 定时器
+    - ZooKeeper
 ---
 
 
