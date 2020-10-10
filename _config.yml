@@ -12,7 +12,7 @@ github_repo: "https://github.com/maoling/maoling.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: ""
-sidebar-avatar: /img/my-wife.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/mywife.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "",
+        title: "WY",
         href: "http://"
     },{
-        title: "",
+        title: "简书",
         href: "http://"
     },{
-        title: "",
+        title: "Apple",
         href: "https://"
     },{
-        title: "",
+        title: "Apple Developer",
         href: "https://"
     }
 ]
